@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "coinmarketfees": {
+      "commandName": "Project",
+      "commandLineArgs": "exchanges"
+    }
+  }
+}
