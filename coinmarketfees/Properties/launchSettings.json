@@ -1,6 +1,14 @@
 {
   "profiles": {
-    "coinmarketfees": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "fees": {
+      "commandName": "Project",
+      "commandLineArgs": "fees -e kraken -t kucoin"
+    },
+    "exchanges": {
       "commandName": "Project",
       "commandLineArgs": "exchanges"
     }
